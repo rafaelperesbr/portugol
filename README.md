@@ -1,0 +1,2 @@
+# portugol
+Exercícios - Algoritmos Seqüenciais
