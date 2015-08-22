@@ -13,6 +13,7 @@ Autor: André Raabe - Colaboradores: Fillipi Pelz, Carlos Krueger - Versão: 1.3
 
 Lista de Problemas para apoio a Aprendizagem de Programação Introdutória
 
+/* 
 Algoritmos Seqüenciais
 1. Faça um programa que exiba na tela a mensagem “Olá Mundo !”.
 2. Faça um programa que solicita que o usuário digite o seu nome e exiba a mensagem
@@ -53,3 +54,4 @@ o número invertido (ex: usuário digitou 136, programa exibirá 631).
 10. Faça um programa que converta um número decimal digitado pelo usuário em binário.
 O programa deve funcionar somente para números de 0 a 15. Após a conversão exiba
 o inteiro resultante.
+*/
